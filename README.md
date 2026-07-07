@@ -101,7 +101,8 @@ Main tables:
 
 ---
 
-## Screenshots
+## Screenshots<img width="1920" height="1080" alt="Screenshot (1124)" src="https://github.com/user-attachments/assets/91762888-afbf-425f-a775-2d4bf79d54e6" />
+
 
 Replace these placeholders after uploading screenshots.
 
