@@ -78,8 +78,8 @@ The system automatically:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/NurseSync-Enterprise.git
-```
+[git clone https://github.com/yourusername/NurseSync-Enterprise.git
+](https://github.com/Dov-elhacker/NurseSync-Enterprise)```
 
 Create a SQL Server database.
 
