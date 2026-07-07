@@ -1,4 +1,4 @@
-# 🏥 NurseSync Enterprise
+#  NurseSync Enterprise
 
 > **Smart Nurse Allocation System for Hospital Ward Operations**
 
@@ -8,28 +8,28 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-## 📖 Overview
+## Overview
 
 NurseSync Enterprise is a web-based hospital workforce management system designed to improve nurse-to-patient allocation using a rule-based redistribution engine. The system automatically balances nursing staff according to patient load, department ratios, minimum staffing requirements, and specialty preferences.
 
 ---
 
-## ✨ Features
+## Features
 
-- 📊 Interactive Dashboard
-- 👩‍⚕️ Nurse Management
-- 🧑‍🤝‍🧑 Patient Management
-- 🏥 Department Management
-- 🔄 Smart Nurse Redistribution
-- 📈 Charts & Statistics
-- 🔐 Secure Authentication
-- 🛡️ CSRF Protection
-- 🔑 Password Hashing
-- 📱 Responsive Interface
+-  Interactive Dashboard
+-  Nurse Management
+-  Patient Management
+-  Department Management
+-  Smart Nurse Redistribution
+-  Charts & Statistics
+-  Secure Authentication
+-  CSRF Protection
+-  Password Hashing
+-  Responsive Interface
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -41,7 +41,7 @@ NurseSync Enterprise is a web-based hospital workforce management system designe
 
 ---
 
-## ⚙️ Smart Allocation Algorithm
+## Smart Allocation Algorithm
 
 The system automatically:
 
@@ -54,7 +54,7 @@ The system automatically:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 /
@@ -75,7 +75,7 @@ The system automatically:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 [git clone https://github.com/yourusername/NurseSync-Enterprise.git
@@ -91,7 +91,7 @@ Run using XAMPP/IIS/Apache with SQLSRV enabled.
 
 ---
 
-## 🗄 Database
+## Database
 
 Main tables:
 
@@ -101,7 +101,7 @@ Main tables:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Replace these placeholders after uploading screenshots.
 
@@ -114,7 +114,7 @@ images/departments.png
 
 ---
 
-## 🔒 Security
+## Security
 
 - Password Hashing
 - Session Authentication
@@ -123,7 +123,7 @@ images/departments.png
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - AI-based prediction
 - Shift scheduling
@@ -133,19 +133,19 @@ images/departments.png
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome.
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **David Wagih**
 
@@ -155,4 +155,4 @@ Aspiring Data Engineer
 
 ---
 
-⭐ If you found this project useful, consider giving it a star!
+ If you found this project useful, consider giving it a star!
