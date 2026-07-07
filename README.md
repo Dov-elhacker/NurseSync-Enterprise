@@ -107,10 +107,18 @@ Main tables:
 Replace these placeholders after uploading screenshots.
 
 ```
-images/dashboard.png
-images/manage-nurses.png
-images/patients.png
-images/departments.png
+<img width="1920" height="1080" alt="Screenshot (1115)" src="https://github.com/user-attachments/assets/aeef67be-847a-43d1-8ea3-b57e75bd0f70" />
+
+<img width="1920" height="1080" alt="Screenshot (1116)" src="https://github.com/user-attachments/assets/a4f9d33e-e8f0-4ea6-a784-28ca21e3ff8e" />
+
+<img width="1920" height="1080" alt="Screenshot (1117)" src="https://github.com/user-attachments/assets/70d62ca8-ba66-4a1f-84ae-df94f13bef4b" />
+<img width="1920" height="1080" alt="Screenshot (1118)" src="https://github.com/user-attachments/assets/0416f980-8c8f-4400-acdc-f1627739f7dd" />
+<img width="1920" height="1080" alt="Screenshot (1119)" src="https://github.com/user-attachments/assets/e985c895-d385-409b-ac1a-a3b69f1fdaca" />
+<img width="1920" height="1080" alt="Screenshot (1120)" src="https://github.com/user-attachments/assets/101ff65e-da80-40c7-9416-c6ac6888d048" />
+<img width="1920" height="1080" alt="Screenshot (1121)" src="https://github.com/user-attachments/assets/cace3c31-7410-4ef6-b6a1-14f4bb7abb4a" />
+<img width="1920" height="1080" alt="Screenshot (1122)" src="https://github.com/user-attachments/assets/e7cded01-281b-4573-b687-3b058a20d1d7" />
+<img width="1920" height="1080" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/35f60440-2989-478f-8613-a144e4bfaa54" />
+<img width="1920" height="1080" alt="Screenshot (1124)" src="https://github.com/user-attachments/assets/d571f2b8-88ea-4ffa-8626-6b842b0fab3b" />
 ```
 
 ---
