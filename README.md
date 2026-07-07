@@ -78,8 +78,8 @@ The system automatically:
 ## Installation
 
 ```bash
-[git clone https://github.com/yourusername/NurseSync-Enterprise.git
-](https://github.com/Dov-elhacker/NurseSync-Enterprise)```
+[[git clone https://github.com/yourusername/NurseSync-Enterprise.git
+](https://github.com/Dov-elhacker/NurseSync-Enterprise)](https://github.com/Dov-elhacker/NurseSync-Enterprise/blob/main/data/NurseAllocationDB)```
 
 Create a SQL Server database.
 
